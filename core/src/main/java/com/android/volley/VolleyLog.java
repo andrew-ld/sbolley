@@ -29,7 +29,7 @@ import java.util.Locale;
  * {@code <android-sdk>/platform-tools/adb shell setprop log.tag.Volley VERBOSE}
  */
 public class VolleyLog {
-    public static String TAG = "Volley";
+    public static String TAG = "Sbolley";
 
     public static boolean DEBUG = Log.isLoggable(TAG, Log.VERBOSE);
 
